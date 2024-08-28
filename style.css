@@ -129,9 +129,9 @@ body {
 
 .content-main__list {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   flex-wrap: wrap;
-  row-gap: 30px;
+  gap: 30px;
 }
 
 .content-main__list-item {
